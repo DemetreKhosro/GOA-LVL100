@@ -22,8 +22,8 @@ function About() {
           </h2>
           <p className="text-[32px] text-green-500 leading-normal max-[1120px]:text-[28px] max-[850px]:text-[22px] max-[500px]:text-[18px] px-5">
             Our mentors know exactly how it feels to start from zero. They are experts in 
-            <span className="text-white" id='about2'> Web Development </span> and 
-            <span className="text-white"> Game Development </span> 
+            <span className="text-green-600" id='about2'> Web Development </span> and 
+            <span className="text-green-600"> Game Development </span> 
             who are here to support you every day. 
             <br /><br />
             At GOA, we don't just give you lessons. We give you a team that wants you to succeed. 
